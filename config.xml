@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns       = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.tomassjodin."
+        versionCode = "10"
+        version     = "1.1.0">
+ 
+    <name>Fitness random</name>
+ 
+    <description>
+        A simple fitness random app
+    </description>
+ 
+    <author href="" email="tomas.sjodin83@gmail.com">
+        Tomas Sjödin
+    </author>
+ 
+    <feature name="http://api.phonegap.com/1.0/camera"/>
+    <feature name="http://api.phonegap.com/1.0/contacts"/>
+    <feature name="http://api.phonegap.com/1.0/file"/>
+    <feature name="http://api.phonegap.com/1.0/geolocation"/>
+    <feature name="http://api.phonegap.com/1.0/media"/>
+    <feature name="http://api.phonegap.com/1.0/network"/>
+    <feature name="http://api.phonegap.com/1.0/notification"/>
+    
+    <icon src="toad.png" gap:platform="ios" width="180" height="180" />
+ 
+</widget>
