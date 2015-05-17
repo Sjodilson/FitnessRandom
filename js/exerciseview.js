@@ -1,0 +1,3 @@
+function ExerciseView(name, url){
+	
+}

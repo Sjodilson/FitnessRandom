@@ -1,8 +1,9 @@
       // 2. This code loads the IFrame Player API code asynchronously.
+     
       var tag = document.createElement('script');
-      var windowWidth = screen.width * 0.95;
+      var windowWidth = screen.width * 0.90;
 	  var windowHeight = screen.height;
-	  console.log(windowWidth);
+	  
       
 
       tag.src = "https://www.youtube.com/iframe_api";
